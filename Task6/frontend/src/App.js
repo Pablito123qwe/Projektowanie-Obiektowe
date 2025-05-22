@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <nav>
-        <Link to="/">Produkty</Link> |{" "}
+        <Link to="/">Produktyy</Link> |{" "}
         <Link to="/koszyk">Koszyk</Link> |{" "}
         <Link to="/platnosci">Płatności</Link>
       </nav>
