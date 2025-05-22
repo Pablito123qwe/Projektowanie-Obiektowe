@@ -8,7 +8,7 @@ function App() {
     <Router>
       <nav>
         <Link to="/">Produktyy</Link> |{" "}
-        <Link to="/koszyk">Koszyk</Link> |{" "}
+        <Link to="/koszyk">Koszykk</Link> |{" "}
         <Link to="/platnosci">Płatności</Link>
       </nav>
       <Routes>
