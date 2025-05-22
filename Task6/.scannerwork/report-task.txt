@@ -1,0 +1,7 @@
+organization=pablito123qwe
+projectKey=Projektowanie-Obiektowe
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.63718
+dashboardUrl=https://sonarcloud.io/dashboard?id=Projektowanie-Obiektowe
+ceTaskId=AZb4dl8w1ZmpZtnEE_vP
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZb4dl8w1ZmpZtnEE_vP
