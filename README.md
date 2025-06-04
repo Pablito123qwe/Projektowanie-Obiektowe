@@ -13,3 +13,9 @@
 
 ## Task5
 ✅ [3.0, 3.5, 4.0](https://github.com/Pablito123qwe/Projektowanie-Obiektowe/commit/48241b6933baa7609801abfc00033ba2e075edb6)
+
+## Task6
+✅ [3.0, 3.5](https://github.com/Pablito123qwe/Projektowanie-Obiektowe/commit/6e77d2241e419ca31ab04dab6ba607f0c92212cd)
+
+## Task9
+✅ [3.0](https://github.com/Pablito123qwe/Projektowanie-Obiektowe/commit/692fd9a1d0adac1d165be7c515a36b697256fd16)
