@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Szczegóły produktu</title>
+</head>
+<body>
+    <h1>#(product.name)</h1>
+    <p>Cena: #(product.price) zł</p>
+    <a href="/products/#(product.id)/edit">Edytuj</a>
+    <a href="/products">Powrót do listy</a>
+</body>
+</html>

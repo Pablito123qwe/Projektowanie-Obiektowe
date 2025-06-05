@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Lista produktów</title>
+</head>
+<body>
+    <h1>Lista produktów</h1>
+    <a href="/products/create">Dodaj nowy produkt</a>
+    <ul>
+    #for(product in products):
+        <li>
+            <a href="/products/#(product.id)">#(product.name) - #(product.price) zł</a>
+            <form action="/products/#(product.id)/delete" method="POST" style="display:inline;">
+                <button type="submit">Usuń</button>
+            </form>
+        </li>
+    #endfor
+    </ul>
+</body>
+</html>

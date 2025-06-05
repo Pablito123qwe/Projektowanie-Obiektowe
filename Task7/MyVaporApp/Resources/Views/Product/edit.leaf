@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Edycja produktu</title>
+</head>
+<body>
+    <h1>Edycja produktu</h1>
+    <form action="/products/#(product.id)/edit" method="POST">
+        <input name="name" value="#(product.name)" required>
+        <input name="price" type="number" step="0.01" value="#(product.price)" required>
+        <button type="submit">Zapisz</button>
+    </form>
+    <a href="/products">Powrót do listy</a>
+</body>
+</html>
